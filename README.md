@@ -70,7 +70,7 @@
 
 <br clear="both">
 
-<h4 align="left">Work Projects: Cant Talk I'm Creating podcast, Production Assistant for Universal Music Group's LLC4 music video, and shooting behind the scenes for Busta Rhymes</h4>
+<h4 align="left">Work Projects: Cant Talk I'm Creating podcast, Production Assistant for Universal Music Group's LLC4 music video, and shooting behind the scenes for Busta Rhymes.</h4>
 
 ###
 
