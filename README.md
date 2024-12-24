@@ -2,7 +2,7 @@
 
 ###
 
-<img align="left" height="200" src="https://github.com/EdwardFeliciano/Edward-Feliciano/blob/main/IMG_4763.jpg?raw=true"  />
+<img align="left" height="200" src="https://github.com/EdwardFeliciano/Read-Me/blob/main/IMG_4763.jpg?raw=true"  />
 
 ###
 
@@ -74,16 +74,16 @@
 
 ###
 
-<img align="left" height="220" src="https://github.com/EdwardFeliciano/Edward-Feliciano/blob/main/IMG_7112.jpg?raw=true"  />
+<img align="left" height="220" src="https://github.com/EdwardFeliciano/Read-Me/blob/main/IMG_7112.jpg?raw=true"  />
 
 ###
 
-<img align="right" height="200" src="https://github.com/EdwardFeliciano/Edward-Feliciano/blob/main/LinkedIn%20post.gif?raw=true"  />
+<img align="right" height="200" src="https://github.com/EdwardFeliciano/Read-Me/blob/main/LinkedIn%20post.gif?raw=true"  />
 
 ###
 
 <div align="center">
-  <img height="200" src="https://github.com/EdwardFeliciano/Edward-Feliciano/blob/main/Screenshot%202024-12-23%20at%2010.14.43%20PM.png?raw=true"  />
+  <img height="200" src="https://github.com/EdwardFeliciano/Read-Me/blob/main/IMG_7115.jpg?raw=true"  />
 </div>
 
 ###
