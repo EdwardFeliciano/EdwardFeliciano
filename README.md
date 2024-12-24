@@ -1,24 +1,24 @@
 <h1 align="left">Hi, it's Eddie. Check my page out!</h1>
 
-
+###
 
 <img align="left" height="200" src="https://github.com/EdwardFeliciano/Edward-Feliciano/blob/main/IMG_4763.jpg?raw=true"  />
 
-
+###
 
 <h3 align="left">My Pashion</h3>
 
-
+###
 
 <h4 align="left">Experienced Production Assistant and Social Media Editor with a demonstrated history of working in the media production industry. Skilled in managing social media presence, editing content for various platforms, and adhering to industry standards. Strong media and communication professional.</h4>
 
-
+###
 
 <br clear="both">
 
 <h3 align="left">Skilled in:</h3>
 
-
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="30" alt="aftereffects logo"  />
@@ -48,11 +48,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
 </div>
 
-
+###
 
 <h4 align="left">Media contact:</h4>
 
-
+###
 
 <div align="left">
   <a href="mailto:eddiefeliciano13@gmail.com" target="_blank">
@@ -66,28 +66,28 @@
   </a>
 </div>
 
-
+###
 
 <br clear="both">
 
 <h4 align="left">Work Projects: Cant Talk I'm Creating podcast, Production Assistant for Universal Music Group's LLC4 music video, and shooting behind the scenes for Busta Rhymes.</h4>
 
-
+###
 
 <img align="left" height="220" src="https://github.com/EdwardFeliciano/Edward-Feliciano/blob/main/IMG_7112.jpg?raw=true"  />
 
-
+###
 
 <img align="right" height="200" src="https://github.com/EdwardFeliciano/Edward-Feliciano/blob/main/LinkedIn%20post.gif?raw=true"  />
 
-
+###
 
 <div align="center">
   <img height="200" src="https://github.com/EdwardFeliciano/Edward-Feliciano/blob/main/Screenshot%202024-12-23%20at%2010.14.43%20PM.png?raw=true"  />
 </div>
 
-
+###
 
 <img src="https://raw.githubusercontent.com/EdwardFeliciano/EdwardFeliciano/output/snake.svg" alt="Snake animation" />
 
-
+###
