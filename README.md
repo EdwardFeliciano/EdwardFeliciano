@@ -67,7 +67,9 @@
   <img height="220" src="https://github.com/EdwardFeliciano/Read-Me/blob/main/giphy.gif?raw=true" alt="Work Photo 1" />
   <img height="200" src="https://github.com/EdwardFeliciano/Read-Me/blob/main/LinkedIn%20post.gif?raw=true" alt="Work Photo 2" />
   <img height="200" src="https://github.com/EdwardFeliciano/Read-Me/blob/main/IMG_7115.jpg?raw=true" alt="Work Photo 3" />
-   <img height="200" src="https://github.com/EdwardFeliciano/Read-Me/blob/main/Screenshot%202024-12-25%20at%2010.57.35%20AM.png?raw=true" />
+  <img height="200" src="https://github.com/EdwardFeliciano/Read-Me/blob/main/Screenshot%202024-12-25%20at%2010.57.35%20AM.png?raw=true" />
+</div>
+  <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <img height="200" src="https://github.com/EdwardFeliciano/Read-Me/blob/main/Screenshot%202024-12-25%20at%2010.57.46%20AM.png?raw=true" />
    <img height="200" src="https://github.com/EdwardFeliciano/Read-Me/blob/main/Screenshot%202024-12-25%20at%2011.08.50%20AM.png?raw=true" />
   <img height="200" src="https://github.com/EdwardFeliciano/Read-Me/blob/main/Screenshot%202024-12-25%20at%2011.14.50%20AM.png?raw=true" />
