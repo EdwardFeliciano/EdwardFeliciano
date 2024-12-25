@@ -70,6 +70,12 @@
   - Behind-the-scenes photography for Busta Rhymes
 </p>
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Cel NoLackin Behind the scenes](https://ytcards.demolab.com/?id=EWjqOvSdyXA&title=Cel+NoLackin+Behind+the+scenes&lang=en&timestamp=1733944917&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Cel NoLackin Behind the scenes")](https://www.youtube.com/watch?v=EWjqOvSdyXA)
+[![Cel NoLackin - Outta Towners (Behind the Scenes)](https://ytcards.demolab.com/?id=hPDcJ7UNFM0&title=Cel+NoLackin+-+Outta+Towners+%28Behind+the+Scenes%29&lang=en&timestamp=1733932900&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Cel NoLackin - Outta Towners (Behind the Scenes)")](https://www.youtube.com/watch?v=hPDcJ7UNFM0)
+[![Cure for hangovers!](https://ytcards.demolab.com/?id=sT2J0i-oOJs&title=Cure+for+hangovers%21&lang=en&timestamp=1733487899&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Cure for hangovers!")](https://www.youtube.com/watch?v=sT2J0i-oOJs)
+[![Filming a Music Video](https://ytcards.demolab.com/?id=sn2mZUpA0xM&title=Filming+a+Music+Video&lang=en&timestamp=1733313774&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Filming a Music Video")](https://www.youtube.com/watch?v=sn2mZUpA0xM)
+[![ALMOST BROKE THE GIMBLE!](https://ytcards.demolab.com/?id=w7p0gYh-rUM&title=ALMOST+BROKE+THE+GIMBLE%21&lang=en&timestamp=1733308742&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "ALMOST BROKE THE GIMBLE!")](https://www.youtube.com/watch?v=w7p0gYh-rUM)
+[![A Day on Set of a Music Video](https://ytcards.demolab.com/?id=LyEzX1d9tf0&title=A+Day+on+Set+of+a+Music+Video&lang=en&timestamp=1733288414&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "A Day on Set of a Music Video")](https://www.youtube.com/watch?v=LyEzX1d9tf0)
 <!-- END YOUTUBE-CARDS -->
 <div align="left">
   <img align="left" height="220" src="https://github.com/EdwardFeliciano/Read-Me/blob/main/IMG_7112.jpg?raw=true" alt="Work Photo 1" style="margin-right: 20px;" />
