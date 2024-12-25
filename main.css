@@ -1,0 +1,12 @@
+/* Add this at the end of your existing CSS */
+.work-projects {
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
+}
+
+.work-projects img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
