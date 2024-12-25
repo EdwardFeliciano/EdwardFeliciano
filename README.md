@@ -3,7 +3,7 @@
 <img align="left" height="200" src="https://github.com/EdwardFeliciano/Read-Me/blob/main/IMG_4763.jpg?raw=true" alt="Profile Picture" />
 
 <br clear="both">
-
+<h3 align="left">Digital Craftsman (Filmmaking,Marketing, and Creating)</h3>
 
 ---
 
