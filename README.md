@@ -26,7 +26,8 @@
 
 ---
 
-<h2 align="left" style="background: linear-gradient(90deg, #50c878, #4a90e2); -webkit-background-clip: text; color: transparent;">🚀 Skilled in:</h2>
+<h2 align="left" style="background: linear-gradient(90deg, #50c878, #4a90e2); -webkit-background-clip: text; color: transparent;">🚀 Languages and Tools
+:</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="After Effects" style="margin-right: 10px;" />
