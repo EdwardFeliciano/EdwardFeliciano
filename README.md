@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="path/to/styles.css">
 <h1 align="left">Hi, I'm Eddie! <img src="https://media.giphy.com/media/jKkqqRlfzajljKVV5p/giphy.gif?cid=ecf05e47bzs6i6y6nbe43z0l0mr4gxjsumhxy6l1w9xmhy9h&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Waving Hand" width="50" height="50">  Check out my page!</h1>
 
 <img align="left" height="200" src="https://github.com/EdwardFeliciano/Read-Me/blob/main/IMG_4763.jpg?raw=true" alt="Profile Picture" />
