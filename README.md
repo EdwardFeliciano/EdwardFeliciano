@@ -64,7 +64,7 @@
   - Filming Behind-the-scenes for Busta Rhymes new album
 </p>
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <img height="220" src="https://github.com/EdwardFeliciano/Read-Me/blob/main/IMG_7112.jpg?raw=true" alt="Work Photo 1" />
+  <img height="220" src="https://github.com/EdwardFeliciano/Read-Me/blob/main/giphy.gif?raw=true" alt="Work Photo 1" />
   <img height="200" src="https://github.com/EdwardFeliciano/Read-Me/blob/main/LinkedIn%20post.gif?raw=true" alt="Work Photo 2" />
   <img height="200" src="https://github.com/EdwardFeliciano/Read-Me/blob/main/IMG_7115.jpg?raw=true" alt="Work Photo 3" />
    <img height="200" src="https://github.com/EdwardFeliciano/Read-Me/blob/main/Screenshot%202024-12-25%20at%2010.57.35%20AM.png?raw=true" />
