@@ -1,10 +1,12 @@
-<h1 align="left">Hi, I'm Eddie! 👋 Check out my page!</h1>
+<h1 align="left">Hi, I'm Eddie! <img src="https://media.giphy.com/media/jKkqqRlfzajljKVV5p/giphy.gif?cid=ecf05e47bzs6i6y6nbe43z0l0mr4gxjsumhxy6l1w9xmhy9h&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Waving Hand" width="50" height="50">  Check out my page!</h1>
 
 <img align="left" height="200" src="https://github.com/EdwardFeliciano/Read-Me/blob/main/IMG_4763.jpg?raw=true" alt="Profile Picture" />
 
 <br clear="both">
 
+
 ---
+
 
 <h2 align="left" style="background: linear-gradient(90deg, #4a90e2, #50c878); -webkit-background-clip: text; color: transparent;">🎯 My Passion</h2>
 
@@ -13,15 +15,7 @@
   Skilled in managing social media presence, editing content for various platforms, and adhering to industry standards. 
   A strong media and communication professional with a creative edge.
 </p>
- <p align="left">
-      <a href="https://www.linkedin.com/in/edward-feliciano1/">
-         <img alt="Follow on LinkedIn" title="Follow" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://www.linkedin.com/mynetwork/invite-connect/connections/">
-         <img alt="followers" title="Follow me on LinkedIn" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+
 
 
 ---
@@ -67,21 +61,14 @@
 <p align="left">
   - "Can't Talk I'm Creating" Podcast <br>
   - Production Assistant for Universal Music Group's LLC4 Music Video <br>
-  - Behind-the-scenes photography for Busta Rhymes
+  - Filming Behind-the-scenes for Busta Rhymes new album
 </p>
-<!-- BEGIN YOUTUBE-CARDS -->
 
-<!-- END YOUTUBE-CARDS -->
-<div align="left">
-  <img align="left" height="220" src="https://github.com/EdwardFeliciano/Read-Me/blob/main/IMG_7112.jpg?raw=true" alt="Work Photo 1" style="margin-right: 20px;" />
-  <img align="right" height="200" src="https://github.com/EdwardFeliciano/Read-Me/blob/main/LinkedIn%20post.gif?raw=true" alt="Work Photo 2" />
-</div>
 
-<br clear="both">
 
-<div align="center">
-  <img height="200" src="https://github.com/EdwardFeliciano/Read-Me/blob/main/IMG_7115.jpg?raw=true" alt="Work Photo 3" />
-</div>
+
+
+
 
 ---
 
